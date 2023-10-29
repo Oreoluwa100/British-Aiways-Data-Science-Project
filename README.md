@@ -23,7 +23,7 @@ Firstly, exploratory data analysis was used to understand the data better, learn
 
 The Algorithm used in this project is Random Forest Classifier. 
 
-**Random Forest Classifier** This is a supervised machine learning algorithm which is based on ensemble learning. This was used to train a machine learning model to predict the target output which is customer booking completed or not completed. This model was able to predict the target outcome with an accuracy 0f 0.8496 using 100 decision-trees. The algorithm also measured the features which are most predictive of the target variable. The performance of the model was evaluated using **Confusion Matrix** which gives us a summary of the correct and incorrect predictions broken down by each category. 
+**Random Forest Classifier** This is a supervised machine learning algorithm which is based on ensemble learning. This was used to train a machine learning model to predict the target output which is customer booking completed or not completed. This model was able to predict the target outcome with an accuracy 0f 0.8496 using 100 decision-trees. The algorithm also measured the features which are most predictive of the target variable. This is measured as **Feature Importance**. The performance of the model was evaluated using **Confusion Matrix** which gives us a summary of the correct and incorrect predictions broken down by each category. 
 
 The model accurately predicted 85% of the target outcome, 83% of which were bookings not completed and 2% bookings completed.
 
