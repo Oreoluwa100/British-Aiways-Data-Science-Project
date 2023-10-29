@@ -1,10 +1,7 @@
 **BRITISH AIRWAYS DATA SCIENCE PROJECT**
 
-British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Every day, thousands of BA flights arrive to and depart from the UK, carrying customers across the world. Whether it’s for holidays, work or any other reason, the end-to-end process of scheduling, planning, boarding, fuelling, transporting, landing, and continuously running flights on time, efficiently and with top-class customer service is a huge task with many highly important responsibilities.
-
-This project includes:
-Customer Review Analysis and 
-Customer Booking Prediction
+British Airways (BA) is the flagship airline of the United Kingdom, connecting travelers to destinations across the globe. The seamless operation of scheduling, planning, boarding, fuelling, transporting, and maintaining flights is a complex undertaking that hinges on top-tier customer service. 
+This project revolves around two core components: Customer Review Analysis and Customer Booking Prediction.
 
 **CUSTOMER REVIEW ANALYSIS**
 
