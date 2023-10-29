@@ -11,7 +11,8 @@ Customer Booking Prediction
 Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA. 
 In this part of the project, the data which is the customers reviews was extracted from a website(Skytrax) using web scraping and Natural Language Processing(NLP) was used to generate insights from the customers reviews. The NLP techniques I used were Sentiment Analysis and Word Cloud.
 
-**Sentiment Analysis**: 
+1. **Sentiment Analysis**: Sentiment analysis is a technique used to determine the emotional tone or sentiment expressed in a text. It involves analyzing the words and phrases used in the text to identify the underlying sentiment, whether it is positive, negative, or neutral.
+2.**Word Cloud**:
 
 
 
