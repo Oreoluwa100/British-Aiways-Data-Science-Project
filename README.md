@@ -19,7 +19,9 @@ For any business, understanding customer sentiment and feedback is essential. In
 
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday. This project is focused on training a machine learning model to be able to predict the target outcome, which is a customer making a booking.
 
-Firstly, **Exploratory Data Analysis** was used to understand the data better. This step unveiled data characteristics, patterns, null values, and the distribution of variables. It served as a crucial initial phase in the data analysis process. **Feature Engineering** transformed raw data into meaningful features for our machine learning model, enhancing predictive accuracy. 
+Firstly, **Exploratory Data Analysis** was used to understand the data better. This step unveiled data characteristics, patterns, null values, and the distribution of variables. It served as a crucial initial phase in the data analysis process.
+
+**Feature Engineering** transformed raw data into meaningful features for our machine learning model, enhancing predictive accuracy. 
 
 **Machine Learning Model: Random Forest Classifier** The algorithm of choice for this project was the Random Forest Classifier, a supervised machine learning method based on ensemble learning. This algorithm was trained to predict the likelihood of a customer completing a booking.
 
