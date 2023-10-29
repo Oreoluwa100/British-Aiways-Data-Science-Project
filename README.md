@@ -15,5 +15,9 @@ In this part of the project, the data which is the customers reviews was extract
    
 2.**Word Cloud**: Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. This was used to retrieve the frequency of each word within the text and to know the key topic the customers were actively talking about.
 
+**CUSTOMER BOOKING PREDICTION**
+
+Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday. This project is focused on training a machine learning model to be able to predict the target outcome, which is a customer making a booking.
+
 
 
