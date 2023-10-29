@@ -27,7 +27,7 @@ Firstly, **Exploratory Data Analysis** was used to understand the data better. T
 
 The model exhibited an accuracy of 0.896 using 100 decision trees. Additionally, it identified the most influential features for predicting booking outcomes through **feature importance analysis**. 
 
-**Model Evaluation: Confusion Matrix** To assess model performance, we employed a confusion matrix, providing a breakdown of correct and incorrect predictions in each category. The model accurately predicted 85% of the target outcomes, with 83% of these predictions pertaining to incomplete bookings and 2% to completed bookings.
+**Model Evaluation: Confusion Matrix** To assess model performance, we employed a confusion matrix, providing a breakdown of correct and incorrect predictions in each category. The model accurately predicted 85% of the target outcome, 83% of which were bookings not completed and 2% bookings completed.
 
 This project embodies a comprehensive analysis of customer reviews and a robust machine learning approach to predict customer bookings, equipping British Airways with valuable insights and tools to enhance customer service and operational efficiency.
 
