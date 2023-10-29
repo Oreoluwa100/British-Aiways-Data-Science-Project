@@ -17,7 +17,7 @@ In this part of the project, the data which is the customers reviews was extract
 
 **CUSTOMER BOOKING PREDICTION**
 
-Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday. This project is focused on training a machine learning model to be able to predict the target outcome, which is a customer making a booking.
+Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday. This project is focused on training a machine learning model to be able to predict the target outcome, which is a customer making a booking.
 
 Firstly, **Exploratory Data Analysis** was used to understand the data better, learn the different data characteristics, look out for useful pattern, null values and how the values of different variables were distributed. This is a very important first step in data analysis and data science. **Feature Engineering** was used in transforming the raw data into useful features for the machine learning model.
 
