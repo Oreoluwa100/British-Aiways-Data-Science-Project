@@ -13,7 +13,7 @@ For any business, understanding customer sentiment and feedback is essential. In
 
 1.**Sentiment Analysis**: Sentiment analysis involves assessing the emotional tone expressed in text. It involves analyzing the words and phrases used in the text to identify the underlying sentiment, whether it is positive, negative, or neutral. Sentiment Analysis was used to unconver some insights from this data.
    
-2.**Word Cloud**: Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. This was used to retrieve the frequency of each word within the text and to know the key topic the customers were actively talking about.
+2.**Word Cloud**: Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. This was used to retrieve the frequency of each word within the text and to know the key topics the customers were actively talking about.
 
 **CUSTOMER BOOKING PREDICTION**
 
